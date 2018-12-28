@@ -41,7 +41,7 @@ def border_operator(node):
     return Node(operated_data)
 
 
-def search_solution_with_bfs(initial_state, solution):
+def solution_with_bfs(operators, initial_state, solution):
     """
     Function that generates new states from the initial state (using the
     defined operators) to solve the Linear Puzzle with four elements by
@@ -52,8 +52,6 @@ def search_solution_with_bfs(initial_state, solution):
     visited, border = [], []
     initial_node = Node(initial_state)
     border.append(initial_node)
-    opertators = [left_operator, center_operator,
-                  right_operator, border_operator]
 
     # While we border nodes is not empty and puzzle not solved:
     while len(border) > 0:
@@ -84,8 +82,12 @@ if __name__ == '__main__':
     initial_state = [1, 4, 3, 2]
     solution = [1, 2, 3, 4]
 
+    # Define operatos list:
+    opertators = [left_operator, center_operator,
+                  right_operator, border_operator]
+
     # Compute solution:
-    solution_node = search_solution_with_bfs(initial_state, solution)
+    solution_node = solution_with_bfs(opertators, initial_state, solution)
 
     # Build steps (by getting the father nodes of the solution):
     resulting_path = []
