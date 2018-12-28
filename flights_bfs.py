@@ -3,9 +3,9 @@ from node import Node
 
 def solution_with_bfs(connections, initial_state, solution):
     """
-    Function that generates new states from the initial state (using the
-    defined operators) to solve the Linear Puzzle with four elements by
-    doing a Breath-First Search in a graph.
+    Function that generates traverses connections from the initial state
+    to solve compute the minimum number of airport transfers in the flights
+    problem doing a Breath-First Search in a graph.
     """
 
     # We initialize our data structures:
