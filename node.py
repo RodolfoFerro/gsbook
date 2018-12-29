@@ -1,7 +1,7 @@
 class Node:
     """
     Node class based on the book "Inteligencia Artificial. Fundamentos,
-    práctica y apliaciones", 2nd. Edition, by Alberto García Serrano.
+    práctica y aplicaciones", 2nd. Edition, by Alberto García Serrano.
     """
 
     def __init__(self, data, children=None):
