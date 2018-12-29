@@ -6,7 +6,7 @@ nav_order: 5
 
 # Informed Search
 
-*Coming soon*
+*Coming soon...*
 {: .fs-6 .fw-300 }
 
 ---

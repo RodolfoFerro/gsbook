@@ -6,7 +6,7 @@ nav_order: 3
 
 # AI and Problem Solving
 
-*Coming soon*
+*Coming soon...*
 {: .fs-6 .fw-300 }
 
 ---

@@ -6,7 +6,7 @@ nav_order: 8
 
 # Learning
 
-*Coming soon*
+*Coming soon...*
 {: .fs-6 .fw-300 }
 
 ---

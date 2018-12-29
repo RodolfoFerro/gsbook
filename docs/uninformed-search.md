@@ -6,7 +6,7 @@ nav_order: 4
 
 # Uninformed Search
 
-*Coming soon*
+*Coming soon...*
 {: .fs-6 .fw-300 }
 
 ---
