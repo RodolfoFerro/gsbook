@@ -65,7 +65,7 @@ def solution_with_bfs(operators, initial_state, solution):
         else:
             # Generate new children with operators:
             children = []
-            for operator in opertators:
+            for operator in operators:
                 child = operator(node)
                 children.append(child)
 
@@ -82,12 +82,12 @@ if __name__ == '__main__':
     initial_state = [1, 4, 3, 2]
     solution = [1, 2, 3, 4]
 
-    # Define operatos list:
-    opertators = [left_operator, center_operator,
-                  right_operator, border_operator]
+    # Define operators list:
+    operators = [left_operator, center_operator,
+                 right_operator, border_operator]
 
     # Compute solution:
-    solution_node = solution_with_bfs(opertators, initial_state, solution)
+    solution_node = solution_with_bfs(operators, initial_state, solution)
 
     # Build steps (by getting the father nodes of the solution):
     resulting_path = []
