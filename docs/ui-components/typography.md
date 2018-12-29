@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: UI Components
+parent: AI and Problem Solving
 nav_order: 1
 ---
 
@@ -24,7 +24,7 @@ By default, Just the Docs uses a native system font stack for sans-serif fonts:
 -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif
 ```
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
 {: .fs-5 .ls-10 .code-example }
 
@@ -34,7 +34,7 @@ For monospace type, like code snippets or the pre `<pre>` element, Just the Docs
 "SFMono-Regular", Menlo, Consolas, Monospace
 ```
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ  
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
 {: .fs-5 .ls-10 .text-mono .code-example }
 

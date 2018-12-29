@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: Informed Search
 nav_order: 5
 ---
 
@@ -174,7 +174,7 @@ Would create the following navigation structure:
 
 ## Auxiliary Navigation
 
-To add a auxiliary navigation item to your site (in the upper right on all pages), add it to the `aux_nav` [configuration option]({{ site.baseurl }}{% link docs/configuration.md %}#aux-nav) in your site's `_config.yml` file.
+To add a auxiliary navigation item to your site (in the upper right on all pages), add it to the `aux_nav` [configuration option]({{ site.baseurl }}{% link docs/introduction-to-ai.md %}#aux-nav) in your site's `_config.yml` file.
 
 #### Example
 {: .no_toc }

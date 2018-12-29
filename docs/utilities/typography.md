@@ -2,7 +2,7 @@
 layout: default
 title: Typography
 nav_order: 3
-parent: Utilities
+parent: Uninformed Search
 ---
 
 # Typography Utilities
@@ -120,30 +120,30 @@ Use the `lh-` classes to explicitly apply line height to text.
 
 
 <div class="code-example" markdown="1">
-No Line height  
+No Line height
 No Line height
 {: .lh-0 }
 
-Tight line height  
+Tight line height
 Tight line height
 {: .lh-tight }
 
-Default line height  
+Default line height
 Default line height
 {: .fh-default }
 </div>
 ```markdown
 In Markdown, use the `{: }` wrapper to apply custom classes:
 
-No Line height  
+No Line height
 No Line height
 {: .lh-0 }
 
-Tight line height  
+Tight line height
 Tight line height
 {: .lh-tight }
 
-Default line height  
+Default line height
 Default line height
 {: .fh-default }
 ```

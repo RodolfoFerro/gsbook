@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: UI Components
+parent: AI and Problem Solving
 nav_order: 2
 ---
 

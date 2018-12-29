@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Games
 nav_order: 6
 ---
 
@@ -72,4 +72,3 @@ $link-color: $blue-000;
 _Note:_ Editing the variables directly in `_sass/support/variables.scss` is not recommended and can cause other dependancies to fail.
 
 ---
-

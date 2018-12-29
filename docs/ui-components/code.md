@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: UI Components
+parent: AI and Problem Solving
 nav_order: 6
 ---
 

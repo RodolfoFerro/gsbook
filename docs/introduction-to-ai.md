@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Configuration
+title: Introduciton to AI
 nav_order: 2
 ---
 
-# Configuration
+# Introduction to AI
 
 Just the Docs has some specific configuration parameters that can be definied in your Jekyll site's `_config.yml` file.
 
-## Search enabled
+## What is *Artificial Intelligence*?
 
 ```yml
 # Enable or disable the site search
 search_enabled: true
 ```
 
-## Aux links
+## Historical Perspective
 
 ```yml
 # Aux links for the upper right navigation
@@ -24,7 +24,7 @@ aux_links:
       - "//github.com/pmarsceill/just-the-docs"
 ```
 
-## Color scheme
+## Present and Future
 
 ```yml
 # Color scheme currently only supports "dark" or nil (default)

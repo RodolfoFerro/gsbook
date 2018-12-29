@@ -2,7 +2,7 @@
 layout: default
 title: Responsive Modifiers
 nav_order: 1
-parent: Utilities
+parent: Uninformed Search
 ---
 
 # Responsive modifiers

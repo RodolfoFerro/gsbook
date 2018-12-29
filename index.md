@@ -5,14 +5,13 @@ nav_order: 1
 permalink: /
 ---
 
+# 📔 *gsbook*
+{: .label .label-purple .fs-9}
 
-# Focus on writing good documentation
-{: .fs-9 }
-
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub pages.
+Code implementations based on the book "Inteligencia Artificial. Fundamentos, práctica y apliaciones", 2nd. Edition, by Alberto García Serrano.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/RodolfoFerro/gsbook){: .btn .fs-5 }
 
 ---
 
@@ -55,7 +54,7 @@ $ bundle exec jekyll serve
 4. Point your web browser to [http://localhost:4000](http://localhost:4000)
 
 ### Configure Just the Docs
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+- [See configuration options]({{ site.baseurl }}{% link docs/introduction-to-ai.md %})
 
 
 ---

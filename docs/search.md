@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: Reasoning
 nav_order: 7
 ---
 

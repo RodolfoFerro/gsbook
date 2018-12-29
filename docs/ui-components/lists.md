@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists
-parent: UI Components
+parent: AI and Problem Solving
 nav_order: 5
 ---
 
@@ -95,4 +95,3 @@ Definition lists require HTML syntax and aren't supported with the GitHub flavor
   <dd>Green</dd>
 </dl>
 ```
-

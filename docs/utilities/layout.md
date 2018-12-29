@@ -2,7 +2,7 @@
 layout: default
 title: Layout
 nav_order: 2
-parent: Utilities
+parent: Uninformed Search
 has_children: true
 ---
 
