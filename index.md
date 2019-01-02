@@ -11,7 +11,7 @@ permalink: /
 Code implementations based on the book *"Inteligencia Artificial. Fundamentos, práctica y aplicaciones"*, 2nd. Edition, by Alberto García Serrano.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/RodolfoFerro/gsbook){: .btn .fs-5 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/RodolfoFerro/gsbook){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
