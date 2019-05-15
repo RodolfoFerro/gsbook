@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: gsbook
 description: 'Code implementations based on the book "Inteligencia Artificial. Fundamentos, práctica y apliaciones", 2nd. Edition, by Alberto García Serrano.'
-baseurl: "/gsbook/" # the subpath of your site, e.g. /blog
+baseurl: "/gsbook" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
