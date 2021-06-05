@@ -31,7 +31,10 @@ Warren McCulloch and Walter Pitts gave the kick off to this young science in 194
 
 AI was not widely recognized, until 1950, when Alan Turing published his article *Computing machinery and intelligence*. Years later, Turing would co-author the first program capable of playing chess.
 
-`TODO.`
+The *Artificial Intelligence* term was first used by John McCarthy, who also build the computer language LISP, making him one of the pioneers in the modern AI age.
+
+After some ups and downs that made the field appear and disappear from the interest of people who studied computer science, in 1980, people discovered that it could be applied to industry, and naturally, the IA was brought back to life.
+The lack of interest in the cold age of AI had a lot of reasons, but one of them could have been because of the high standards in the field, people were expecting thinking machines, not expert systems in a single task, but thanks to the efforts of different communities, neural networks were re-born and after that, the field was open to a lot more different applications and it has not stopped ever since.
 
 ## Present and Future
 
