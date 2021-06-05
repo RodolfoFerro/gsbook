@@ -63,6 +63,6 @@ When contributing to this repository, please first discuss the change you wish t
 - Await for code review
 
 
-#### *gsbook* is maintained with <img src="https://ugmun.com/img/heart.gif" width="15px"> by [Rodolfo Ferro](https://github.com/RodolfoFerro).
+#### *gsbook* is maintained with <img src="https://ugmun.com/img/heart.gif" width="15px"> by [FanyCaz](https://github.com/fanyCaz) & [Rodolfo Ferro](https://github.com/RodolfoFerro).
 
 ---
