@@ -18,7 +18,14 @@ Some problems we may have in our daily life such as how much time we need to tra
 **Evaluation Function** -> How good our solution is.
 
 **Notes when solving the problem**
-The solution we get at the end, is the solution for our model, not the real problem, that's why we need to be as descriptive as posible when building a model, so it can have a better adjustment in the real problem. 
+The solution we get at the end, is the solution for our model, not the real problem, that's why we need to be as descriptive as posible when building a model, so it can have a better adjustment to the real problem. 
+
+### Some problems
+**Traveling Salesman Problem**
+Suppose we have a person (or object) that has to travel to different cities, visit all of them, and then return to the original starting point, no city can be repeated, but the path it follows must be the shortest possible.
+To solve this problem with a few cities we can even solve it ourselves, but as we increase the number of cities and/or constraints, the most difficult is to get to an ideal solution. That's where AI comes in.
+Time to solve the problem is the most difficult constraint.
+
 
 
 ---
