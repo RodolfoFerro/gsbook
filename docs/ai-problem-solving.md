@@ -23,9 +23,16 @@ The solution we get at the end, is the solution for our model, not the real prob
 ### Some problems
 **Traveling Salesman Problem**
 Suppose we have a person (or object) that has to travel to different cities, visit all of them, and then return to the original starting point, no city can be repeated, but the path it follows must be the shortest possible.
-To solve this problem with a few cities we can even solve it ourselves, but as we increase the number of cities and/or constraints, the most difficult is to get to an ideal solution. That's where AI comes in.
-Time to solve the problem is the most difficult constraint.
+To solve this problem with a few cities, we can even solve it ourselves with a few iterations, but as we increase the number of cities and/or constraints, the most difficult is to get to an ideal solution. That's where AI comes in.
+Even when AI is a lot faster than us to solve this kind of problem, it still falls short due to the nature of the problem, with 10 cities, we would need to consider 3,628,800 possible solutions!.
+That's why we need to evaluate our ai algorithm basing on how good the solution is and the time it takes to solve it. Time to solve the problem is the most difficult contraint to satisfy because of the resources of the computer.
 
+**Boolean Satisfiability Problem**
+
+If we have a boolean values, we expect True or False, 1 or 0. The operators that we have in this problem are AND, OR and NOT. With these, we can make different functions that will give us a boolean solution.
+The Boolean Satisfiability Problem is that given a function like: (x <sub>2</sub> v x<sub>4</sub>) ^ (x<sub>3</sub> v x<sub>1</sub>) ^ (x<sub>2</sub> v ¬x<sub>1</sub>) we need to find the boolean values that will give us a True as a result. As the TSP, we have a complexity related to time and resources to solve the problem due to the quantity of variables and iterations we need to make to get a solution, and be able to compare which solution is better.
+
+**Integer Linear Programming Problem**
 
 
 ---
